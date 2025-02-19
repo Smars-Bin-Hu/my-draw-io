@@ -26,7 +26,7 @@
           <mxGeometry x="190" y="250.64999999999998" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2PyJBCkOyKso3dR-uSi-10" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-90;strokeColor=#001DBC;fillColor=#0050ef;shadow=1;rounded=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="442.93" y="190.97" width="34.71" height="149.35" as="geometry" />
+          <mxGeometry x="444.54" y="158.39" width="34.71" height="214.51" as="geometry" />
         </mxCell>
         <mxCell id="b2PyJBCkOyKso3dR-uSi-11" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;Data Warehousing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="250.64999999999998" width="110" height="30" as="geometry" />
@@ -59,10 +59,10 @@
           <mxGeometry x="180" y="310" width="140" height="250" as="geometry" />
         </mxCell>
         <mxCell id="b2PyJBCkOyKso3dR-uSi-24" value="Airflow" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;glass=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="377.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="200" y="367.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2PyJBCkOyKso3dR-uSi-25" value="JDBC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;glass=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="445" width="100" height="50" as="geometry" />
+          <mxGeometry x="200" y="440" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2PyJBCkOyKso3dR-uSi-28" value="Airflow&lt;font style=&quot;font-size: 6px;&quot;&gt;(scheduler)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;glass=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="490" width="100" height="50" as="geometry" />
@@ -136,7 +136,7 @@
         <mxCell id="b2PyJBCkOyKso3dR-uSi-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BDFF26;strokeColor=none;gradientColor=#FFFFF4;strokeWidth=1;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="310" width="140" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="b2PyJBCkOyKso3dR-uSi-58" value="AMOD 5410 - Big Data (Data warehousing final term project)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="b2PyJBCkOyKso3dR-uSi-58" value="AMOD 5410 - Big Data (Final Term Project)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="398" y="180" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b2PyJBCkOyKso3dR-uSi-60" value="&lt;div style=&quot;text-align: center;&quot;&gt;BI dashboard, Report&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -169,8 +169,14 @@
         <mxCell id="b2PyJBCkOyKso3dR-uSi-70" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#FF0000;glass=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="172.5" y="577" width="545" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="b2PyJBCkOyKso3dR-uSi-71" value="Data Engineering (pipeline)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="400" y="600" width="100" height="40" as="geometry" />
+        <mxCell id="b2PyJBCkOyKso3dR-uSi-71" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Data Engineering (pipeline)&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="400" y="585" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CZNTEfrC5hxuyiVuGHWW-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_copyright_48px-128.png;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="737.64" y="615" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CZNTEfrC5hxuyiVuGHWW-2" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Smars Hu, AMOD student, Trent University&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="747.64" y="605" width="262.36" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
